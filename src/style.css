@@ -1,0 +1,17 @@
+@import 'macro-css';
+
+
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 10px 10px;
+    text-align: center;
+    
+}
+
+.App {
+
+}
+ul{
+    list-style-type: none;
+}
